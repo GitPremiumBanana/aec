@@ -1,0 +1,24 @@
+{
+  "name": "advanced-elo.calculator",
+  "version": "0.1.1",
+  "description": "Calculate Elo for 1v1s, 2v2s, 3v3s and 4v4s!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GitPremiumBanana/advanced-elo-calculator.git"
+  },
+  "keywords": [
+    "elo",
+    "calculator",
+    "advanced"
+  ],
+  "author": "Sebastian Kling",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GitPremiumBanana/advanced-elo-calculator/issues"
+  },
+  "homepage": "https://github.com/GitPremiumBanana/advanced-elo-calculator#readme"
+}
