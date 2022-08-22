@@ -16,7 +16,7 @@ In node.js, just require the module:
 ```javascript
 const aec = require('advanced-elo.calculator')
 ```
-There are 4 functions in **V 0.1.2**:
+There are 4 functions in **V 0.1.3**:
 ```javascript
 // Used for 1v1s
 aec.c1v1();
@@ -78,3 +78,10 @@ Discord: **[PremiumBanana#8636](https://discordapp.com/users/891299124052369518)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Change Log
+Version **0.1.2**
+  - Fixed Bugs
+
+Version **0.1.3**
+  - Fixed Bugs
