@@ -1,8 +1,8 @@
 function c1v1(ratingA, ratingB, K, result) {
 
-    if (result > 1 || 0 > result) {
+    if (result > 1 || 0 > result || result === '') {
 
-        return `\n\nc1v1: SyntaxError: Unexpected Number\n\n`
+        return `\n\nc1v1: SyntaxError: Unexpected Score\n\n`
 
     }
 
